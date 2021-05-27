@@ -35,6 +35,7 @@ EXTRA_DIST = urcu/arch/aarch64.h \
 	urcu/arch/ia64.h \
 	urcu/arch/m68k.h \
 	urcu/arch/mips.h \
+	urcu/arch/loongarch64.h \
 	urcu/arch/nios2.h \
 	urcu/arch/ppc.h \
 	urcu/arch/riscv.h \
@@ -52,6 +53,7 @@ EXTRA_DIST = urcu/arch/aarch64.h \
 	urcu/uatomic/ia64.h \
 	urcu/uatomic/m68k.h \
 	urcu/uatomic/mips.h \
+	urcu/uatomic/loongarch64.h \
 	urcu/uatomic/nios2.h \
 	urcu/uatomic/ppc.h \
 	urcu/uatomic/riscv.h \
